@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=fflat-square&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-232F3E.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-232F3E.svg?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Supabase-6DB33F.svg?style=flat-square&logo=supabase&logoColor=white" />&nbsp
 </div>
 <p>
