@@ -28,6 +28,14 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
+
+## 🏅 Stats
+  <div style="text-align: left;"> 
+  <div> <img src="https://github-readme-stats.vercel.app/api?username=LDK-Officail_color=180,00000000,&title_color=000000&text_color=000000"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDK-Officail&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> </div> 
+    </div>
+
+
 <!--
 **LDK-Official/LDK-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
