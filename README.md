@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 <br/><br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)<br/>
 
 ## :sunglasses: About Me
 <div align="left">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)<br/>
+  
 :raising_hand: 안녕하세요<br/>
 :fire: 하이요<br/>
 </div>
