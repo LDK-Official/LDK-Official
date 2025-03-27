@@ -2,8 +2,8 @@
 <br/><br/><br/><br/>
 
 ## :sunglasses: About Me
+  [!Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)<br/>
 <div align="left">
-  (http://mazassumnida.wtf/api/v2/generate_badge?boj=jjk1491)(https://solved.ac/jjk1491)<br/>
 :raising_hand: 안녕하세요<br/>
 :fire: 하이요<br/>
 </div>
