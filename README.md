@@ -22,9 +22,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-232F3E.svg?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Supabase-6DB33F.svg?style=flat-square&logo=supabase&logoColor=white" />&nbsp
 </div>
-<p>
 
-</p>
+## :hammer: Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
 <!--
 **LDK-Official/LDK-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
