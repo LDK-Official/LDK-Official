@@ -30,8 +30,12 @@
 
 ## :hammer: Tools
 <div align="left">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />&nbsp
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/Intellij-2C2C32.svg?style=flat-square&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
 ## 🏅 Stats
