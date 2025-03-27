@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 ## :sunglasses: About Me
-:raising_hand: 안녕하세요</n>
-:fire: 하이요</n>
+:raising_hand: 안녕하세요<br/>
+:fire: 하이요<br/>
 
-## :mag:Tech Stack
-Language</n>
+## :computer: Tech Stack
+Language<br/>
 
 <!--
 **LDK-Official/LDK-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
