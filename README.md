@@ -3,7 +3,7 @@
 
 ## :sunglasses: About Me
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)
 <div align="left">
 
 :raising_hand: 안녕하세요<br/>
