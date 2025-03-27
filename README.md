@@ -6,8 +6,8 @@
 :fire: 하이요<br/>
 
 ## :computer: Tech Stack
-Language<br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 
 <!--
 **LDK-Official/LDK-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
