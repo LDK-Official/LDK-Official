@@ -40,7 +40,7 @@
 
 ## 🧑‍🎓Team Projects
 <details>
-	<summary>근무 환경 개선을 위한 AI 상담 플랫폼 <a href="https://github.com/EmotionHQ/InsideOut-Backend"> InsideOut </a> </summary>
+	<summary>근무 환경 개선을 위한 AI 상담 플랫폼 <a href="https://github.com/EmotionHQ/InsideOut-Back"> InsideOut </a> </summary>
 
 ### 💡과제 선정 배경
 정신적인 스트레스와 경직된 조직문화로 인해 최근 공무원 퇴사율이 증가하고 있으며, 공공기관 근로자들이 겪는 스트레스 수준이 심각한 상황입니다. 그러나 국가가 제공하는 심리 상담 서비스는 예산 부족으로 인해 필요한 인원들에게 충분히 제공되지 못하고 있습니다.
@@ -72,10 +72,12 @@ AI를 통한 비대면 상담 서비스에 대한 선호도 조사 결과 긍정
 - EAP(직원 지원 프로그램) 자동화를 통해 운영 비용 절감 및 전문 상담사의 업무 부담 감소 등 비용 절감 및 자원 최적화
 - 
 ### 🔍개발환경
+<div>
   <img src="https://img.shields.io/badge/Java-265A8F.svg?style=flat-square&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-232F3E.svg?style=flat-square&logo=PostgreSQL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Supabase-6DB33F.svg?style=flat-square&logo=supabase&logoColor=white" />&nbsp
+</div>
 
 ### 
 ![AI 11조 1P 설명서](https://github.com/user-attachments/assets/50a1e4ff-de30-4784-9cad-784a646f97a6)
