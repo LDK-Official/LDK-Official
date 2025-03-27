@@ -19,6 +19,7 @@
 </div>
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-232F3E.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Supabase-6DB33F.svg?style=flat-square&logo=supabase&logoColor=white" />&nbsp
 </div>
 <p>
