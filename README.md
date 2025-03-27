@@ -6,10 +6,12 @@
 :fire: 하이요<br/>
 
 ## :computer: Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-265A8F.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+</div>
+
+<br>
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
