@@ -30,7 +30,7 @@
 </div>
 
 ## 🏅 Stats
-  <div style="text-align: left;"> 
+  <div align= "left"> 
   <div> <img src="https://github-readme-stats.vercel.app/api?username=LDK-Officail_color=180,00000000,&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDK-Officail&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> </div> 
     </div>
