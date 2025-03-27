@@ -17,8 +17,12 @@
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=fflat-square&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Supabase-6DB33F.svg?style=flat-square&logo=supabase&logoColor=white" />&nbsp
+</div>
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
 </p>
 <!--
 **LDK-Official/LDK-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
