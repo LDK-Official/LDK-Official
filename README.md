@@ -6,8 +6,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjk1491)](https://solved.ac/jjk1491)
 <div align="left">
 
-:raising_hand: 안녕하세요<br/>
-:fire: 하이요<br/>
+:raising_hand: 안녕하세요. 이동규입니다.<br/>
+:fire::fire::fire::fire:<br/>
 </div>
 
 ## :computer: Tech Stack
